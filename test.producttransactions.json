@@ -1,0 +1,780 @@
+[{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e36"
+  },
+  "dateOfSale": {
+    "$date": "2021-11-27T14:59:54.000Z"
+  },
+  "title": "Fjallraven  Foldsack No 1 Backpack Fits 15 Laptops",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop up to 15 inches in the padded sleeve your everyday",
+  "price": 329.85,
+  "category": "men's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e37"
+  },
+  "dateOfSale": {
+    "$date": "2021-10-27T14:59:54.000Z"
+  },
+  "title": "Mens Casual Premium Slim Fit TShirts ",
+  "description": "Slimfitting style contrast raglan long sleeve threebutton henley placket light weight  soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a threebutton placket.",
+  "price": 44.6,
+  "category": "men's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e38"
+  },
+  "dateOfSale": {
+    "$date": "2022-07-27T14:59:54.000Z"
+  },
+  "title": "Mens Cotton Jacket",
+  "description": "great outerwear jackets for SpringAutumnWinter suitable for many occasions such as working hiking camping mountainrock climbing cycling traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father husband or son in this thanksgiving or Christmas Day.",
+  "price": 615.89,
+  "category": "men's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e39"
+  },
+  "dateOfSale": {
+    "$date": "2021-10-27T14:59:54.000Z"
+  },
+  "title": "Mens Casual Slim Fit",
+  "description": "The color could be slightly different between on the screen and in practice.  Please note that body builds vary by person therefore detailed size information should be reviewed below on the product description.",
+  "price": 31.98,
+  "category": "men's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e3a"
+  },
+  "dateOfSale": {
+    "$date": "2022-06-27T14:59:54.000Z"
+  },
+  "title": "John Hardy Womens Legends Naga Gold  Silver Dragon Station Chain Bracelet",
+  "description": "From our Legends Collection the Naga was inspired by the mythical water dragon that protects the oceans pearl. Wear facing inward to be bestowed with love and abundance or outward for protection.",
+  "price": 6950,
+  "category": "jewelery",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e3b"
+  },
+  "dateOfSale": {
+    "$date": "2021-09-27T14:59:54.000Z"
+  },
+  "title": "Solid Gold Petite Micropave ",
+  "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+  "price": 168,
+  "category": "jewelery",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e3c"
+  },
+  "dateOfSale": {
+    "$date": "2022-06-27T14:59:54.000Z"
+  },
+  "title": "White Gold Plated Princess",
+  "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement Wedding Anniversary Valentines Day...",
+  "price": 99.9,
+  "category": "jewelery",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e3d"
+  },
+  "dateOfSale": {
+    "$date": "2021-11-27T14:59:54.000Z"
+  },
+  "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+  "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+  "price": 32.97,
+  "category": "jewelery",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e3e"
+  },
+  "dateOfSale": {
+    "$date": "2022-07-27T14:59:54.000Z"
+  },
+  "title": "WD 2TB Elements Portable External Hard Drive  USB 30 ",
+  "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity Compatibility Formatted NTFS for Windows 10 Windows 8.1 Windows 7 Reformatting may be required for other operating systems Compatibility may vary depending on users hardware configuration and operating system",
+  "price": 704,
+  "category": "electronics",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e3f"
+  },
+  "dateOfSale": {
+    "$date": "2022-03-27T14:59:54.000Z"
+  },
+  "title": "SanDisk SSD PLUS 1TB Internal SSD  SATA III 6 Gbs",
+  "description": "Easy upgrade for faster boot up shutdown application load and response As compared to 5400 RPM SATA 2.5 hard drive Based on published specifications and internal benchmarking tests using PCMark vantage scores Boosts burst write performance making it ideal for typical PC workloads The perfect balance of performance and reliability Readwrite speeds of up to 535MBs450MBs Based on internal testing Performance may vary depending upon drive capacity host device OS and application.",
+  "price": 763,
+  "category": "electronics",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e40"
+  },
+  "dateOfSale": {
+    "$date": "2021-09-27T14:59:54.000Z"
+  },
+  "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 25",
+  "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultraslim notebooks. Supports TRIM command Garbage Collection technology RAID and ECC Error Checking  Correction to provide the optimized performance and enhanced reliability.",
+  "price": 109,
+  "category": "electronics",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e41"
+  },
+  "dateOfSale": {
+    "$date": "2022-03-27T14:59:54.000Z"
+  },
+  "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+  "description": "Expand your PS4 gaming experience Play anywhere Fast and easy setup Sleek design with high capacity 3year manufacturers limited warranty",
+  "price": 798,
+  "category": "electronics",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e42"
+  },
+  "dateOfSale": {
+    "$date": "2022-04-27T14:59:54.000Z"
+  },
+  "title": "Acer SB220Q bi 215 inches Full HD 1920 x 1080 IPS UltraThin",
+  "description": "21. 5 inches Full HD 1920 x 1080 widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate 75Hz  Using HDMI port Zeroframe design  ultrathin  4ms response time  IPS panel Aspect ratio  16 9. Color Supported  16. 7 million colors. Brightness  250 nit Tilt angle 5 degree to 15 degree. Horizontal viewing angle178 degree. Vertical viewing angle178 degree 75 hertz",
+  "price": 4792,
+  "category": "electronics",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e43"
+  },
+  "dateOfSale": {
+    "$date": "2022-01-27T14:59:54.000Z"
+  },
+  "title": "Samsung 49Inch CHG90 144Hz Curved Gaming Monitor LC49HG90DMNXZA  Super Ultrawide Screen QLED ",
+  "description": "49 INCH SUPER ULTRAWIDE 329 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT QLED TECHNOLOGY HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur ghosting and reduce input lag",
+  "price": 4999.95,
+  "category": "electronics",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e44"
+  },
+  "dateOfSale": {
+    "$date": "2022-01-27T14:59:54.000Z"
+  },
+  "title": "BIYLACLESEN Womens 3in1 Snowboard Jacket Winter Coats",
+  "description": "NoteThe Jackets is US standard size Please choose size as your usual wear Material 100 Polyester Detachable Liner Fabric Warm Fleece. Detachable Functional Liner Skin Friendly Lightweigt and Warm.Stand Collar Liner jacket keep you warm in cold weather. Zippered Pockets 2 Zippered Hand Pockets 2 Zippered Pockets on Chest enough to keep cards or keysand 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and waterfor a comfortable fit. 3 in 1 Detachable Design provide more convenience you can separate the coat and inner as needed or wear it together. It is suitable for different season and help you adapt to different climates",
+  "price": 284.95,
+  "category": "women's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e45"
+  },
+  "dateOfSale": {
+    "$date": "2021-10-27T14:59:54.000Z"
+  },
+  "title": "Lock and Love Womens Removable Hooded Faux Leather Moto Biker Jacket",
+  "description": "100 POLYURETHANEshell 100 POLYESTERlining 75 POLYESTER 25 COTTON SWEATER Faux leather material for style and comfort  2 pockets of front 2ForOne Hooded denim style faux leather jacket Button detail on waist  Detail stitching at sides HAND WASH ONLY  DO NOT BLEACH  LINE DRY  DO NOT IRON",
+  "price": 59.9,
+  "category": "women's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e46"
+  },
+  "dateOfSale": {
+    "$date": "2022-05-27T14:59:54.000Z"
+  },
+  "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+  "description": "Lightweight perfet for trip or casual wearLong sleeve with hooded adjustable drawstring waist design. Button and zipper front closure raincoat fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things it covers the hips and the hood is generous but doesnt overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+  "price": 359.91,
+  "category": "women's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e47"
+  },
+  "dateOfSale": {
+    "$date": "2021-11-27T14:59:54.000Z"
+  },
+  "title": "MBJ Womens Solid Short Sleeve Boat Neck V ",
+  "description": "95 RAYON 5 SPANDEX Made in USA or Imported Do Not Bleach Lightweight fabric with great stretch for comfort Ribbed on sleeves and neckline  Double stitching on bottom hem",
+  "price": 29.549999999999997,
+  "category": "women's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e48"
+  },
+  "dateOfSale": {
+    "$date": "2022-01-27T14:59:54.000Z"
+  },
+  "title": "Opna Womens Short Sleeve Moisture",
+  "description": "100 Polyester Machine wash 100 cationic polyester interlock Machine Wash  Pre Shrunk for a Great Fit Lightweight roomy and highly breathable with moisture wicking fabric which helps to keep moisture away Soft Lightweight Fabric with comfortable Vneck collar and a slimmer fit delivers a sleek more feminine silhouette and Added Comfort",
+  "price": 39.75,
+  "category": "women's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e49"
+  },
+  "dateOfSale": {
+    "$date": "2022-02-27T14:59:54.000Z"
+  },
+  "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+  "description": "95Cotton5Spandex Features Casual Short Sleeve Letter PrintVNeckFashion Tees The fabric is soft and has some stretch. Occasion CasualOfficeBeachSchoolHomeStreet. Season SpringSummerAutumnWinter.",
+  "price": 77.94,
+  "category": "women's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e4a"
+  },
+  "dateOfSale": {
+    "$date": "2021-12-27T14:59:54.000Z"
+  },
+  "title": "Fjallraven  Foldsack No 1 Backpack Fits 15 Laptops",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop up to 15 inches in the padded sleeve your everyday",
+  "price": 439.8,
+  "category": "men's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e4b"
+  },
+  "dateOfSale": {
+    "$date": "2022-01-27T14:59:54.000Z"
+  },
+  "title": "Mens Casual Premium Slim Fit TShirts ",
+  "description": "Slimfitting style contrast raglan long sleeve threebutton henley placket light weight  soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a threebutton placket.",
+  "price": 111.5,
+  "category": "men's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e4c"
+  },
+  "dateOfSale": {
+    "$date": "2022-06-27T14:59:54.000Z"
+  },
+  "title": "Mens Cotton Jacket",
+  "description": "great outerwear jackets for SpringAutumnWinter suitable for many occasions such as working hiking camping mountainrock climbing cycling traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father husband or son in this thanksgiving or Christmas Day.",
+  "price": 559.9,
+  "category": "men's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e4d"
+  },
+  "dateOfSale": {
+    "$date": "2021-10-27T14:59:54.000Z"
+  },
+  "title": "Mens Casual Slim Fit",
+  "description": "The color could be slightly different between on the screen and in practice.  Please note that body builds vary by person therefore detailed size information should be reviewed below on the product description.",
+  "price": 31.98,
+  "category": "men's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e4e"
+  },
+  "dateOfSale": {
+    "$date": "2021-09-27T14:59:54.000Z"
+  },
+  "title": "John Hardy Womens Legends Naga Gold  Silver Dragon Station Chain Bracelet",
+  "description": "From our Legends Collection the Naga was inspired by the mythical water dragon that protects the oceans pearl. Wear facing inward to be bestowed with love and abundance or outward for protection.",
+  "price": 695,
+  "category": "jewelery",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e4f"
+  },
+  "dateOfSale": {
+    "$date": "2021-11-27T14:59:54.000Z"
+  },
+  "title": "Solid Gold Petite Micropave ",
+  "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+  "price": 504,
+  "category": "jewelery",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e50"
+  },
+  "dateOfSale": {
+    "$date": "2022-04-27T14:59:54.000Z"
+  },
+  "title": "White Gold Plated Princess",
+  "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement Wedding Anniversary Valentines Day...",
+  "price": 79.92,
+  "category": "jewelery",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e51"
+  },
+  "dateOfSale": {
+    "$date": "2022-08-27T14:59:54.000Z"
+  },
+  "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+  "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+  "price": 131.88,
+  "category": "jewelery",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e52"
+  },
+  "dateOfSale": {
+    "$date": "2022-06-27T14:59:54.000Z"
+  },
+  "title": "WD 2TB Elements Portable External Hard Drive  USB 30 ",
+  "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity Compatibility Formatted NTFS for Windows 10 Windows 8.1 Windows 7 Reformatting may be required for other operating systems Compatibility may vary depending on users hardware configuration and operating system",
+  "price": 640,
+  "category": "electronics",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e53"
+  },
+  "dateOfSale": {
+    "$date": "2021-10-27T14:59:54.000Z"
+  },
+  "title": "SanDisk SSD PLUS 1TB Internal SSD  SATA III 6 Gbs",
+  "description": "Easy upgrade for faster boot up shutdown application load and response As compared to 5400 RPM SATA 2.5 hard drive Based on published specifications and internal benchmarking tests using PCMark vantage scores Boosts burst write performance making it ideal for typical PC workloads The perfect balance of performance and reliability Readwrite speeds of up to 535MBs450MBs Based on internal testing Performance may vary depending upon drive capacity host device OS and application.",
+  "price": 218,
+  "category": "electronics",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e54"
+  },
+  "dateOfSale": {
+    "$date": "2022-01-27T14:59:54.000Z"
+  },
+  "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 25",
+  "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultraslim notebooks. Supports TRIM command Garbage Collection technology RAID and ECC Error Checking  Correction to provide the optimized performance and enhanced reliability.",
+  "price": 545,
+  "category": "electronics",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e55"
+  },
+  "dateOfSale": {
+    "$date": "2022-05-27T14:59:54.000Z"
+  },
+  "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+  "description": "Expand your PS4 gaming experience Play anywhere Fast and easy setup Sleek design with high capacity 3year manufacturers limited warranty",
+  "price": 1026,
+  "category": "electronics",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e56"
+  },
+  "dateOfSale": {
+    "$date": "2021-10-27T14:59:54.000Z"
+  },
+  "title": "Acer SB220Q bi 215 inches Full HD 1920 x 1080 IPS UltraThin",
+  "description": "21. 5 inches Full HD 1920 x 1080 widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate 75Hz  Using HDMI port Zeroframe design  ultrathin  4ms response time  IPS panel Aspect ratio  16 9. Color Supported  16. 7 million colors. Brightness  250 nit Tilt angle 5 degree to 15 degree. Horizontal viewing angle178 degree. Vertical viewing angle178 degree 75 hertz",
+  "price": 1198,
+  "category": "electronics",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e57"
+  },
+  "dateOfSale": {
+    "$date": "2021-09-27T14:59:54.000Z"
+  },
+  "title": "Samsung 49Inch CHG90 144Hz Curved Gaming Monitor LC49HG90DMNXZA  Super Ultrawide Screen QLED ",
+  "description": "49 INCH SUPER ULTRAWIDE 329 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT QLED TECHNOLOGY HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur ghosting and reduce input lag",
+  "price": 999.99,
+  "category": "electronics",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e58"
+  },
+  "dateOfSale": {
+    "$date": "2022-06-27T14:59:54.000Z"
+  },
+  "title": "BIYLACLESEN Womens 3in1 Snowboard Jacket Winter Coats",
+  "description": "NoteThe Jackets is US standard size Please choose size as your usual wear Material 100 Polyester Detachable Liner Fabric Warm Fleece. Detachable Functional Liner Skin Friendly Lightweigt and Warm.Stand Collar Liner jacket keep you warm in cold weather. Zippered Pockets 2 Zippered Hand Pockets 2 Zippered Pockets on Chest enough to keep cards or keysand 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and waterfor a comfortable fit. 3 in 1 Detachable Design provide more convenience you can separate the coat and inner as needed or wear it together. It is suitable for different season and help you adapt to different climates",
+  "price": 569.9,
+  "category": "women's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e59"
+  },
+  "dateOfSale": {
+    "$date": "2022-05-27T14:59:54.000Z"
+  },
+  "title": "Lock and Love Womens Removable Hooded Faux Leather Moto Biker Jacket",
+  "description": "100 POLYURETHANEshell 100 POLYESTERlining 75 POLYESTER 25 COTTON SWEATER Faux leather material for style and comfort  2 pockets of front 2ForOne Hooded denim style faux leather jacket Button detail on waist  Detail stitching at sides HAND WASH ONLY  DO NOT BLEACH  LINE DRY  DO NOT IRON",
+  "price": 269.55,
+  "category": "women's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e5a"
+  },
+  "dateOfSale": {
+    "$date": "2022-03-27T14:59:54.000Z"
+  },
+  "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+  "description": "Lightweight perfet for trip or casual wearLong sleeve with hooded adjustable drawstring waist design. Button and zipper front closure raincoat fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things it covers the hips and the hood is generous but doesnt overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+  "price": 279.93,
+  "category": "women's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e5b"
+  },
+  "dateOfSale": {
+    "$date": "2021-11-27T14:59:54.000Z"
+  },
+  "title": "MBJ Womens Solid Short Sleeve Boat Neck V ",
+  "description": "95 RAYON 5 SPANDEX Made in USA or Imported Do Not Bleach Lightweight fabric with great stretch for comfort Ribbed on sleeves and neckline  Double stitching on bottom hem",
+  "price": 29.549999999999997,
+  "category": "women's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e5c"
+  },
+  "dateOfSale": {
+    "$date": "2022-06-27T14:59:54.000Z"
+  },
+  "title": "Opna Womens Short Sleeve Moisture",
+  "description": "100 Polyester Machine wash 100 cationic polyester interlock Machine Wash  Pre Shrunk for a Great Fit Lightweight roomy and highly breathable with moisture wicking fabric which helps to keep moisture away Soft Lightweight Fabric with comfortable Vneck collar and a slimmer fit delivers a sleek more feminine silhouette and Added Comfort",
+  "price": 79.5,
+  "category": "women's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e5d"
+  },
+  "dateOfSale": {
+    "$date": "2022-06-27T14:59:54.000Z"
+  },
+  "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+  "description": "95Cotton5Spandex Features Casual Short Sleeve Letter PrintVNeckFashion Tees The fabric is soft and has some stretch. Occasion CasualOfficeBeachSchoolHomeStreet. Season SpringSummerAutumnWinter.",
+  "price": 129.9,
+  "category": "women's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e5e"
+  },
+  "dateOfSale": {
+    "$date": "2022-01-27T14:59:54.000Z"
+  },
+  "title": "Fjallraven  Foldsack No 1 Backpack Fits 15 Laptops",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop up to 15 inches in the padded sleeve your everyday",
+  "price": 549.75,
+  "category": "men's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e5f"
+  },
+  "dateOfSale": {
+    "$date": "2021-12-27T14:59:54.000Z"
+  },
+  "title": "Mens Casual Premium Slim Fit TShirts ",
+  "description": "Slimfitting style contrast raglan long sleeve threebutton henley placket light weight  soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a threebutton placket.",
+  "price": 89.2,
+  "category": "men's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e60"
+  },
+  "dateOfSale": {
+    "$date": "2022-05-27T14:59:54.000Z"
+  },
+  "title": "Mens Cotton Jacket",
+  "description": "great outerwear jackets for SpringAutumnWinter suitable for many occasions such as working hiking camping mountainrock climbing cycling traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father husband or son in this thanksgiving or Christmas Day.",
+  "price": 503.91,
+  "category": "men's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e61"
+  },
+  "dateOfSale": {
+    "$date": "2021-12-27T14:59:54.000Z"
+  },
+  "title": "Mens Casual Slim Fit",
+  "description": "The color could be slightly different between on the screen and in practice.  Please note that body builds vary by person therefore detailed size information should be reviewed below on the product description.",
+  "price": 63.96,
+  "category": "men's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e62"
+  },
+  "dateOfSale": {
+    "$date": "2022-06-27T14:59:54.000Z"
+  },
+  "title": "John Hardy Womens Legends Naga Gold  Silver Dragon Station Chain Bracelet",
+  "description": "From our Legends Collection the Naga was inspired by the mythical water dragon that protects the oceans pearl. Wear facing inward to be bestowed with love and abundance or outward for protection.",
+  "price": 6950,
+  "category": "jewelery",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e63"
+  },
+  "dateOfSale": {
+    "$date": "2022-05-27T14:59:54.000Z"
+  },
+  "title": "Solid Gold Petite Micropave ",
+  "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+  "price": 1512,
+  "category": "jewelery",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e64"
+  },
+  "dateOfSale": {
+    "$date": "2022-07-27T14:59:54.000Z"
+  },
+  "title": "White Gold Plated Princess",
+  "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement Wedding Anniversary Valentines Day...",
+  "price": 109.89,
+  "category": "jewelery",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e65"
+  },
+  "dateOfSale": {
+    "$date": "2022-04-27T14:59:54.000Z"
+  },
+  "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+  "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+  "price": 87.92,
+  "category": "jewelery",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e66"
+  },
+  "dateOfSale": {
+    "$date": "2022-08-27T14:59:54.000Z"
+  },
+  "title": "WD 2TB Elements Portable External Hard Drive  USB 30 ",
+  "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity Compatibility Formatted NTFS for Windows 10 Windows 8.1 Windows 7 Reformatting may be required for other operating systems Compatibility may vary depending on users hardware configuration and operating system",
+  "price": 768,
+  "category": "electronics",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e67"
+  },
+  "dateOfSale": {
+    "$date": "2022-06-27T14:59:54.000Z"
+  },
+  "title": "SanDisk SSD PLUS 1TB Internal SSD  SATA III 6 Gbs",
+  "description": "Easy upgrade for faster boot up shutdown application load and response As compared to 5400 RPM SATA 2.5 hard drive Based on published specifications and internal benchmarking tests using PCMark vantage scores Boosts burst write performance making it ideal for typical PC workloads The perfect balance of performance and reliability Readwrite speeds of up to 535MBs450MBs Based on internal testing Performance may vary depending upon drive capacity host device OS and application.",
+  "price": 1090,
+  "category": "electronics",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e68"
+  },
+  "dateOfSale": {
+    "$date": "2022-05-27T14:59:54.000Z"
+  },
+  "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 25",
+  "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultraslim notebooks. Supports TRIM command Garbage Collection technology RAID and ECC Error Checking  Correction to provide the optimized performance and enhanced reliability.",
+  "price": 981,
+  "category": "electronics",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e69"
+  },
+  "dateOfSale": {
+    "$date": "2022-07-27T14:59:54.000Z"
+  },
+  "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+  "description": "Expand your PS4 gaming experience Play anywhere Fast and easy setup Sleek design with high capacity 3year manufacturers limited warranty",
+  "price": 1254,
+  "category": "electronics",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e6a"
+  },
+  "dateOfSale": {
+    "$date": "2022-07-27T14:59:54.000Z"
+  },
+  "title": "Acer SB220Q bi 215 inches Full HD 1920 x 1080 IPS UltraThin",
+  "description": "21. 5 inches Full HD 1920 x 1080 widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate 75Hz  Using HDMI port Zeroframe design  ultrathin  4ms response time  IPS panel Aspect ratio  16 9. Color Supported  16. 7 million colors. Brightness  250 nit Tilt angle 5 degree to 15 degree. Horizontal viewing angle178 degree. Vertical viewing angle178 degree 75 hertz",
+  "price": 6589,
+  "category": "electronics",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e6b"
+  },
+  "dateOfSale": {
+    "$date": "2021-09-27T14:59:54.000Z"
+  },
+  "title": "Samsung 49Inch CHG90 144Hz Curved Gaming Monitor LC49HG90DMNXZA  Super Ultrawide Screen QLED ",
+  "description": "49 INCH SUPER ULTRAWIDE 329 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT QLED TECHNOLOGY HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur ghosting and reduce input lag",
+  "price": 999.99,
+  "category": "electronics",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e6c"
+  },
+  "dateOfSale": {
+    "$date": "2022-07-27T14:59:54.000Z"
+  },
+  "title": "BIYLACLESEN Womens 3in1 Snowboard Jacket Winter Coats",
+  "description": "NoteThe Jackets is US standard size Please choose size as your usual wear Material 100 Polyester Detachable Liner Fabric Warm Fleece. Detachable Functional Liner Skin Friendly Lightweigt and Warm.Stand Collar Liner jacket keep you warm in cold weather. Zippered Pockets 2 Zippered Hand Pockets 2 Zippered Pockets on Chest enough to keep cards or keysand 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and waterfor a comfortable fit. 3 in 1 Detachable Design provide more convenience you can separate the coat and inner as needed or wear it together. It is suitable for different season and help you adapt to different climates",
+  "price": 626.89,
+  "category": "women's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e6d"
+  },
+  "dateOfSale": {
+    "$date": "2022-02-27T14:59:54.000Z"
+  },
+  "title": "Lock and Love Womens Removable Hooded Faux Leather Moto Biker Jacket",
+  "description": "100 POLYURETHANEshell 100 POLYESTERlining 75 POLYESTER 25 COTTON SWEATER Faux leather material for style and comfort  2 pockets of front 2ForOne Hooded denim style faux leather jacket Button detail on waist  Detail stitching at sides HAND WASH ONLY  DO NOT BLEACH  LINE DRY  DO NOT IRON",
+  "price": 179.7,
+  "category": "women's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e6e"
+  },
+  "dateOfSale": {
+    "$date": "2021-09-27T14:59:54.000Z"
+  },
+  "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+  "description": "Lightweight perfet for trip or casual wearLong sleeve with hooded adjustable drawstring waist design. Button and zipper front closure raincoat fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things it covers the hips and the hood is generous but doesnt overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+  "price": 339.99,
+  "category": "women's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e6f"
+  },
+  "dateOfSale": {
+    "$date": "2022-02-27T14:59:54.000Z"
+  },
+  "title": "MBJ Womens Solid Short Sleeve Boat Neck V ",
+  "description": "95 RAYON 5 SPANDEX Made in USA or Imported Do Not Bleach Lightweight fabric with great stretch for comfort Ribbed on sleeves and neckline  Double stitching on bottom hem",
+  "price": 59.099999999999994,
+  "category": "women's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e70"
+  },
+  "dateOfSale": {
+    "$date": "2022-06-27T14:59:54.000Z"
+  },
+  "title": "Opna Womens Short Sleeve Moisture",
+  "description": "100 Polyester Machine wash 100 cationic polyester interlock Machine Wash  Pre Shrunk for a Great Fit Lightweight roomy and highly breathable with moisture wicking fabric which helps to keep moisture away Soft Lightweight Fabric with comfortable Vneck collar and a slimmer fit delivers a sleek more feminine silhouette and Added Comfort",
+  "price": 79.5,
+  "category": "women's clothing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d83d7d5875751620860e71"
+  },
+  "dateOfSale": {
+    "$date": "2021-09-27T14:59:54.000Z"
+  },
+  "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+  "description": "95Cotton5Spandex Features Casual Short Sleeve Letter PrintVNeckFashion Tees The fabric is soft and has some stretch. Occasion CasualOfficeBeachSchoolHomeStreet. Season SpringSummerAutumnWinter.",
+  "price": 412.99,
+  "category": "women's clothing",
+  "__v": 0
+}]
